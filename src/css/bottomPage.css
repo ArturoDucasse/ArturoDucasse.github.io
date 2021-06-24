@@ -1,0 +1,90 @@
+footer {
+  background-color: #404f6c;
+  height: 65px;
+}
+
+footer p {
+  margin: 0;
+  color: #5d7198;
+}
+
+header {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  margin: auto;
+}
+
+ul {
+  margin: 0 !important;
+  list-style-type: none;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
+
+.mountains {
+  background-color: #404f6c;
+  height: 35px;
+  display: flex;
+}
+
+.mountains li {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.mountains #first {
+  margin-left: 250px;
+}
+
+.schedules_Container {
+  height: 450px;
+  padding-top: 50px;
+}
+
+.Mountain1 {
+  background: url(../images/BottomPage/Mountain2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Mountain2 {
+  background: url(../images/BottomPage/Mountain1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.climbing_schedules {
+  width: 350px;
+  margin-left: 50px !important;
+  background-color: rgb(255, 255, 255, 0.8);
+}
+
+.climbing_schedules h1 {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-left: 5px;
+  color: #5d7198;
+}
+
+.climbing_schedules li p {
+  margin: 5px;
+}
+
+.selected {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  background-color: #b0b4be;
+  color: #404f6c;
+}
+
+.not_selected {
+  background-color: #404f6c;
+  color: #b0b4be;
+  text-decoration: initial;
+}

@@ -1,0 +1,1 @@
+Project created with React, following the psd provided.

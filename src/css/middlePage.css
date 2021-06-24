@@ -1,0 +1,29 @@
+.Middle_Container {
+}
+.test1 {
+  height: 80%;
+  background: url(../images/MiddlePage/1.png);
+  background-size: cover;
+}
+
+.test2 {
+  height: 20%;
+  background: url(../images/MiddlePage/2.png);
+  background-size: cover;
+  padding: 50px;
+}
+
+.pr {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.ejXxNI {
+  background-color: white !important;
+  box-shadow: 0px 0px 0px rgb(255, 255, 255) !important;
+}
